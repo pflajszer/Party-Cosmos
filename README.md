@@ -29,7 +29,7 @@ _________________________________________________________________________
 - P                               - pause the game
 - TAB                             - toggle tests
 
-- Player 1:                       Player 2:
+            Player 1:          /             Player 2:
 - arrow UP           /            w               - move up
 - arrow DOWN         /             s               - move down
 - arrow LEFT         /             a               - move left
