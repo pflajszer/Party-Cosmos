@@ -7,11 +7,11 @@ It's my first game, so please have mercy.:) I'd like to know what can I improve 
 - the overall file split and names (I'm sure my_functions, my_classes and my_constants aren't the industry standard)
 
 Bugs and flaws:
-- LEVEL UP BUG: pause the game and wait till fraction of the second before next level up, unpause, the level goes up, pause again, etc
+- LEVEL UP BUG: pause the game and wait till fraction of the second before next level up, unpause, the level goes up, pause again, etc. this way one can level up without playing, since level is determined on the time bases (every 10 sec lvl up)
 - change lists iteration to group iteration when drawing sprites etc.
 
 Bad design practices:
-- from <moduleName> import * (can cause trouble, and considered a bad practice)
+- from "moduleName" import * (can cause trouble, and considered a bad practice)
 - cluttered functions that perhaps could be simpler, and some of them could be class methods
 
 TODO:
