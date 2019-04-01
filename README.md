@@ -21,10 +21,8 @@ TODO:
 
 
 Game controls:
-"""
 _______________________________________________________________________
-
-                            General:
+General:
 
 M                               - mute the music
 P                               - pause the game
