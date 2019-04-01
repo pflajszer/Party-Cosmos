@@ -21,7 +21,8 @@ TODO:
 
 
 Game controls:
-                       General:
+
+                              General:
 _________________________________________________________________________
 
 - M                               - mute the music
