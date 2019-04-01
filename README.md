@@ -21,12 +21,11 @@ TODO:
 
 
 Game controls:
-_______________________________________________________________________
 General:
 
-M                               - mute the music
-P                               - pause the game
-TAB                             - toggle tests
+- M                               - mute the music
+- P                               - pause the game
+- TAB                             - toggle tests
 
 Player 1:                       Player 2:
 arrow UP                        w               - move up
@@ -35,4 +34,4 @@ arrow LEFT                      a               - move left
 arrow RIGHT                     d               - move right  
 
 _________________________________________________________________________
-"""
+
